@@ -42,7 +42,7 @@
 		<div class="col-md-4 col-md-offset-4">
 			<form role="form" data-toggle="validator" method="post" class="login_form logo_div">
 			 	<h4 class="text-center">LOGIN</h4>
-			 	<p>Please fill out the following form with your login credentials.</p>
+			 	<p>Please fill the following form with your login credentials.</p>
 			 	<div class="form-group">
 			    <div class="input-group">
 						<span class="input-group-addon"><i class="fa fa-user"></i></span>
